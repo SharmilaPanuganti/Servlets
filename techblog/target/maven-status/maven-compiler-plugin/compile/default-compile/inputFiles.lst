@@ -1,0 +1,17 @@
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\entities\Category.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\entities\Message.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\entities\User.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\entities\Post.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\servlets\LikeServlet.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\filters\MyFilter.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\helper\Helper.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\servlets\AddPostServlet.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\dao\LikeDao.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\servlets\RegisterServlet.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\helper\ConnectionProvider.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\servlets\EditServlet.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\dao\UserDao.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\servlets\LogoutServlet.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\servlets\LoginServlet.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\dao\PostDao.java
+c:\Users\CGG\Desktop\Servlets\techblog\src\main\java\cgg\techproj\entities\Like.java
